@@ -1,0 +1,51 @@
+3.34.0
+======
+* Adjust to 3.34 changes [Florian]
+* Dim logo in overview [Florian]
+* Misc. cleanups [Florian]
+
+3.32.0
+======
+* Drop convenience module in favor of upstream helpers [Florian]
+* Adjust to TextureCache API changes [Florian]
+
+Contributors:
+  Florian Müllner
+
+3.30.0
+======
+* Use meson build system [Florian]
+* Modernize javascript [Florian]
+* Fix warnings on monitor unplug [Florian]
+
+Contributors:
+  Florian Müllner
+
+3.24.0
+======
+* Update logo on texture file changes [Florian]
+* Update settings to fit F26 background [Paul]
+
+Contributors:
+  Florian Müllner, Paul W. Frields
+
+3.21.92
+=======
+* Add option to show logo for all backgrounds
+
+Contributors:
+  Olivier Samyn
+
+3.16.1
+======
+* Fix high CPU usage due to feedback loop [Christian]
+
+Contributors:
+  Christian Krause
+
+3.15.1
+======
+* Initial release
+
+Contributors:
+  Florian Müllner
